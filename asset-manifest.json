@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarea-3-integracion/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tarea-3-integracion/static/js/main.4b62a7ba.chunk.js",
+    "main.js.map": "/tarea-3-integracion/static/js/main.4b62a7ba.chunk.js.map",
+    "runtime-main.js": "/tarea-3-integracion/static/js/runtime-main.d5305147.js",
+    "runtime-main.js.map": "/tarea-3-integracion/static/js/runtime-main.d5305147.js.map",
+    "static/js/2.a0568239.chunk.js": "/tarea-3-integracion/static/js/2.a0568239.chunk.js",
+    "static/js/2.a0568239.chunk.js.map": "/tarea-3-integracion/static/js/2.a0568239.chunk.js.map",
+    "static/js/3.09eb05c4.chunk.js": "/tarea-3-integracion/static/js/3.09eb05c4.chunk.js",
+    "static/js/3.09eb05c4.chunk.js.map": "/tarea-3-integracion/static/js/3.09eb05c4.chunk.js.map",
+    "index.html": "/tarea-3-integracion/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tarea-3-integracion/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a0568239.chunk.js.LICENSE.txt": "/tarea-3-integracion/static/js/2.a0568239.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tarea-3-integracion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5305147.js",
+    "static/js/2.a0568239.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4b62a7ba.chunk.js"
+  ]
+}
