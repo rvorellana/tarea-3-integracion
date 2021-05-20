@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/my_styles.css"],"names":[],"mappings":"AACA,SACE,aAAc,CACd,gBAAiB,CACjB,YACF","file":"main.da4457f8.chunk.css","sourcesContent":["\n.chatBox {\n  overflow: auto;\n  max-height: 350px;\n  height: 350px;\n}\n"]}
